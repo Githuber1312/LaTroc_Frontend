@@ -1,0 +1,15 @@
+.message-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .message-list li.unread {
+    font-weight: bold;
+    background-color: #f9f9f9;
+  }
+  
+  .message-list li.read {
+    font-weight: normal;
+    background-color: #fff;
+  }
+  
